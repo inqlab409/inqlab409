@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <a href="mailto:abbasimansoor97@gmail.com"><img src="https://img.shields.io/badge/-abbasimansoor97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!--<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
  </p>
--->
+
 <!--## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
