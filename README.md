@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <div align="center"><h1>👋 Hi, I’m @Inlab Amanullah 🚀</h1></div>  
+### <div align="center"><h1>👋 Hi, I’m @Inqlab Amanullah 🚀</h1></div>  
 <p align="center">
-<a href="https://github.com/inqlab409"><img src="https://readme-typing-svg.herokuapp.com/?lines=Loosi+and+Web+Gadah;LAMP+Stack+Developer;JavaScript+Developer;Open+Source+Contributor&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=0634DE"></a>
+<a href="https://github.com/inqlab409"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Analysis;IOT+Explorer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=0634DE"></a>
 </p>
 
-- 👀 I’m interested in building Web Development Projects
-- 🌱 I’m currently learning Generative AI and ChatBots.
-- 💞️ I’m looking to collaborate on Web Development Projects, C++, Python, PHP, JavaScript
+- 👀 I’m interested in building Data Science Projects
+- 🌱 I’m currently learning BSCS @ SZABIST Gharo.
+- 💞️ I’m looking to collaborate on Python, PHP, MySQL 
 - 📫 Reach me out using Linkedin, Github, email or facebook .
 
+<!--
 <h2>Tech Stack</h2>
 <table width="100">
 <tr>
@@ -82,7 +83,7 @@ Here are some ideas to get you started:
 <a href="mailto:abbasimansoor97@gmail.com"><img src="https://img.shields.io/badge/-abbasimansoor97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!--<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
  </p>
-
+-->
 <!--## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
